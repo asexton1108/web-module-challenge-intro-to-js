@@ -293,7 +293,7 @@ if(number >= 90){
 }else if(number < 70 && number >= 60){
   return `you got a D`;
 }else if(number < 60){
-  return `you got a F`;
+  return `you got an F`;
 }
 }
 
